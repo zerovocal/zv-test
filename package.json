@@ -1,9 +1,12 @@
 {
   "name": "zv-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "zv-test",
   "main": "index.js",
-  "repository": "git@gitlab.com:zerovocal/zv-test.git",
+  "repository": "git@github.com:zerovocal/zv-test.git",
   "author": "zerovocal <zerovocalzv@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start":"node test.js"
+  }
 }

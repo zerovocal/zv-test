@@ -1,5 +1,5 @@
 const A=1;
-const B=2;
+const B=3;
 
 exports.A=A;
 exports.B=B;
