@@ -1,0 +1,9 @@
+{
+  "name": "zv-test",
+  "version": "0.0.1",
+  "description": "zv-test",
+  "main": "index.js",
+  "repository": "git@gitlab.com:zerovocal/zv-test.git",
+  "author": "zerovocal <zerovocalzv@gmail.com>",
+  "license": "MIT"
+}
